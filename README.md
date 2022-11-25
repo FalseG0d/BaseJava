@@ -24,9 +24,9 @@
     <br />
     <br />
     ·
-    <a href="https://github.com/FalseG0d/BaseJava/issues">Report Bug</a>
+    <a href="https://github.com/FalseG0d/ReadmeTemplate/issues">Report Bug</a>
     ·
-    <a href="https://github.com/FalseG0d/BaseJava/issues">Request Feature</a>
+    <a href="https://github.com/FalseG0d/ReadmeTemplate/issues">Request Feature</a>
   </p>
 </p>
 
@@ -51,7 +51,7 @@ Simply Open the App or Feature you wish to learn by selecting a folder of your c
 1. Clone the repo
 
 ```sh
-git clone https://github.com/FalseG0d/BaseJava.git
+git clone https://github.com/FalseG0d/ReadmeTemplate.git
 ```
 
 2. Surf The Programs You Wish To Run.
@@ -68,7 +68,7 @@ git clone https://github.com/FalseG0d/BaseJava.git
 
 Apoorv Garg - [@ApoorvG03132459](https://twitter.com/ApoorvG03132459) - u.garg.10@gmail.com
 
-Project Link: [https://github.com/FalseG0d/BaseJava](https://github.com/FalseG0d/BaseJava)
+Project Link: [https://github.com/FalseG0d/ReadmeTemplate](https://github.com/FalseG0d/ReadmeTemplate)
 
 ## License
 
@@ -83,16 +83,16 @@ All these programs are made by me without any monetary support nor have I reciev
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/FalseG0d/BaseJava.svg?style=flat-square
-[contributors-url]: https://github.com/FalseG0d/BaseJava/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/FalseG0d/BaseJava.svg?style=flat-square
-[forks-url]: https://github.com/FalseG0d/BaseJava/network/members
-[stars-shield]: https://img.shields.io/github/stars/FalseG0d/BaseJava.svg?style=flat-square
-[stars-url]: https://github.com/FalseG0d/BaseJava/stargazers
-[issues-shield]: https://img.shields.io/github/issues/FalseG0d/BaseJava.svg?style=flat-square
-[issues-url]: https://github.com/FalseG0d/BaseJava/issues
-[license-shield]: https://img.shields.io/github/license/FalseG0d/BaseJava.svg?style=flat-square
-[license-url]: https://github.com/FalseG0d/BaseJava/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/FalseG0d/ReadmeTemplate.svg?style=flat-square
+[contributors-url]: https://github.com/FalseG0d/ReadmeTemplate/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/FalseG0d/ReadmeTemplate.svg?style=flat-square
+[forks-url]: https://github.com/FalseG0d/ReadmeTemplate/network/members
+[stars-shield]: https://img.shields.io/github/stars/FalseG0d/ReadmeTemplate.svg?style=flat-square
+[stars-url]: https://github.com/FalseG0d/ReadmeTemplate/stargazers
+[issues-shield]: https://img.shields.io/github/issues/FalseG0d/ReadmeTemplate.svg?style=flat-square
+[issues-url]: https://github.com/FalseG0d/ReadmeTemplate/issues
+[license-shield]: https://img.shields.io/github/license/FalseG0d/ReadmeTemplate.svg?style=flat-square
+[license-url]: https://github.com/FalseG0d/ReadmeTemplate/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/apoorv-garg-137137171/
-[product-screenshot]: https://raw.githubusercontent.com/FalseG0d/BaseJava/master/pexels.jpg
+[product-screenshot]: https://raw.githubusercontent.com/FalseG0d/ReadmeTemplate/master/pexels.jpg
