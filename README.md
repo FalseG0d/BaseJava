@@ -95,4 +95,4 @@ All these programs are made by me without any monetary support nor have I reciev
 [license-url]: https://github.com/FalseG0d/BaseJava/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/apoorv-garg-137137171/
-[product-screenshot]: images/pexels.jpg
+[product-screenshot]: https://raw.githubusercontent.com/FalseG0d/BaseJava/master/pexels.jpg
