@@ -6,7 +6,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-# Complete Java
+# ReadmeTemplate
 
 <!-- PROJECT LOGO -->
 <br />
