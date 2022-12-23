@@ -43,7 +43,6 @@
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
 
-
 ## Getting Started
 
 Simply Open the App or Feature you wish to learn by selecting a folder of your choosing.
